@@ -1,1 +1,1 @@
-print("Hello from Docker CI Pipeline!")
+print("Hello WORLD from Docker CI Pipeline!")
